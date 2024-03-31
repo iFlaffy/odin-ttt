@@ -1,1 +1,1 @@
-# odin-ttt
+Tic Tac Toe project for Odin
